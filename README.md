@@ -11,3 +11,4 @@ to use it just install pillow
 ![image_9 (2)](https://github.com/nixietab/random-art/assets/75538775/22780454-bb64-49a4-a02f-7fe6bae61af4)
 ![image](https://github.com/nixietab/random-art/assets/75538775/86becc9c-a2b6-41dc-9d3a-c3d83d1ffad1)
 ![image](https://github.com/nixietab/random-art/assets/75538775/e226fd09-de12-4cae-9a19-1958c712bea1)
+![image_92](https://github.com/nixietab/random-art/assets/75538775/a9dabd4e-c2f6-4032-b564-a6a29a8ca20e)
